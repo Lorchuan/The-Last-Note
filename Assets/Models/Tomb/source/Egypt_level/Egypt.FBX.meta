@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: WXIati75BXxVdokuorrNsawJKr1tp7rH0qxiRWsRj2t9AJxK+prOTtg=
+ModelImporter:
+  serializedVersion: 22361
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box001
+    second: {fileID: 2100000, guid: ae86e35e8c5158c48ba7c5a507aedbb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #26
+    second: {fileID: 2100000, guid: 9982b47f7e0c282469fc9d1a58992310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #27
+    second: {fileID: 2100000, guid: 7fc6a75d50f83d8498713684cb0a2ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nefertiti head
+    second: {fileID: 2100000, guid: 79f8eaa8b48696a4daaed6ef1611d040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane014
+    second: {fileID: 2100000, guid: 29d5d3eb3d69d9d41b1a7ac0f8fe5dfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ramses II head
+    second: {fileID: 2100000, guid: 1083de2d7cbbcee478878fedd20fb28f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling hall side
+    second: {fileID: 2100000, guid: fb3d34c97452d6748bf9450274c98e7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling halll midle
+    second: {fileID: 2100000, guid: dd29c6eeb2fe7194ebff403ab6ae8fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: closed door
+    second: {fileID: 2100000, guid: ec56fd22c86267d4b9326837abd418a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colum left
+    second: {fileID: 2100000, guid: 0048b4ee148f3d24fa510f1cd8cb1cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: column right
+    second: {fileID: 2100000, guid: 4fe17dc042c05824999d7076fd79a35c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube1
+    second: {fileID: 2100000, guid: a0604244f48d9c0489033be787c01289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube2
+    second: {fileID: 2100000, guid: 17ec73b240653aa478f9c4232ff7fef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube3
+    second: {fileID: 2100000, guid: f21dbf06026886447b912bf8c035baa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube4
+    second: {fileID: 2100000, guid: 5890713fd8f06574891edf053c4172fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube5
+    second: {fileID: 2100000, guid: 636af94427df7f343bf924cdb5b80ce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eagle lobby
+    second: {fileID: 2100000, guid: 039ad35419f89d14ba63a152affdb639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: first hallway
+    second: {fileID: 2100000, guid: 00a61eb0277a38e4ba9a48a8d432181a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground near
+    second: {fileID: 2100000, guid: 5d3c774a3be7ebd45bbbd1c20fcc853a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left  room hallway
+    second: {fileID: 2100000, guid: fe01a9f47b2b3e541a429e288f7af2e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left hallway border
+    second: {fileID: 2100000, guid: ec4b897ded495d24aa49202e0897d7f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left room
+    second: {fileID: 2100000, guid: cadd5472cfccc93469f5e68af8273623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left stand_
+    second: {fileID: 2100000, guid: d4d9a367b3e7d424db7771c9038823d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left vaze
+    second: {fileID: 2100000, guid: 96296cd76ae9220489b2c74425c1e042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lines
+    second: {fileID: 2100000, guid: c069087cc6f14c3479a7f4aecedcc397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main room
+    second: {fileID: 2100000, guid: 650f4a1d822e5614098aa6ac0f917945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: middle hallway
+    second: {fileID: 2100000, guid: 85612908d5f894f408efff2c992ff053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: middle room hallway
+    second: {fileID: 2100000, guid: 8b97d28246ee1a2418f57a47ef78b96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right hallway border
+    second: {fileID: 2100000, guid: 0602e878d8ff3bc43a17495b95dba792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right room
+    second: {fileID: 2100000, guid: b507766b953b22a478a5522aeddd047c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right room hallway
+    second: {fileID: 2100000, guid: 36871526b5bf77446b273f82935f8a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right stand
+    second: {fileID: 2100000, guid: 74a0e0ceaf1fef04ab08ae0faa5a69c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right vaze
+    second: {fileID: 2100000, guid: 16063f7c50feb2a40973aa383451a69d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand 1
+    second: {fileID: 2100000, guid: 2a5228574f77b754783b9b6ddaa43018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand 2
+    second: {fileID: 2100000, guid: 36f7fa577a0bcb84d9c5e7921f771fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand 7
+    second: {fileID: 2100000, guid: 22ffbab4ab06beb4babbfc7409697ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand hall
+    second: {fileID: 2100000, guid: bf90d5595c5765240b2e915217d5962a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand3
+    second: {fileID: 2100000, guid: d9353a07da9015f46833610eb7737c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand4
+    second: {fileID: 2100000, guid: bd7b891b0214f4d4ab4c1b69d85d63c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand5
+    second: {fileID: 2100000, guid: 23f82dd6dffe0144a87658e73b7a8e60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shovel
+    second: {fileID: 2100000, guid: 9f1b009f828f4c04694ce8886faa4321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair
+    second: {fileID: 2100000, guid: fce26dd367a78be48b6516fd397ed109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vaze 1
+    second: {fileID: 2100000, guid: c0a3ecebd62540146a8b9e092ba955cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vaze 4
+    second: {fileID: 2100000, guid: ca15b9d2b45b6f248850d1a786659f4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vaze main room
+    second: {fileID: 2100000, guid: f33011d1d7ec3d94cab4ca3cf93ece96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vaze2
+    second: {fileID: 2100000, guid: 89a649fc0c604ae45b6acf7509dda06c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vaze3
+    second: {fileID: 2100000, guid: b7417bead20bb3a469cfd877dcbebeee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall hall face
+    second: {fileID: 2100000, guid: 80ca4de1039f5854f95f8d9972d366f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall hall left
+    second: {fileID: 2100000, guid: e0c420e7bf8f60242919f53bb86725cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall hall right
+    second: {fileID: 2100000, guid: 0ec979e00fc8b7c4fae09009ad817483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall stair right
+    second: {fileID: 2100000, guid: 4701d3f889b0a2b4ea156725b0bbc063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood ground near
+    second: {fileID: 2100000, guid: 0bc0c5552f7e09f46aa7dbe9ecaa22d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood hall
+    second: {fileID: 2100000, guid: d9e1288e500b2764eb3f6c152061c24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood hall001
+    second: {fileID: 2100000, guid: e4165e58361dcd846bbb681ca5553ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood side
+    second: {fileID: 2100000, guid: df30ae446d03d9c4fa8aca2e7f221568, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    aCLCompressionLevel: 3
+    aCLCurvePrecision: 0.01
+    aCLFastSampleMode: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+    virtualGeometry: 0
+    hasBoneWeight: 0
+    generateGeometryBuffer: 0
+    positionPrecision: -2147483648
+    normalPrecision: -1
+    tangentPrecision: -1
+    surfaceCompensation: 0
+    allMeshUse: 1
+    ignoreSimpleMesh: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
