@@ -15,3 +15,6 @@ https://www.bilibili.com/video/BV14rAozaEhv/?spm_id_from=333.1387.homepage.video
 ## 🛠️ 开发环境
 * **引擎**：Tuanjie 1.6.4
 * **目标平台**：PC
+
+## 🔨 使用方法
+根目录下，Arduino Scripts中的两个文件分别使用Arduino IDE编辑，用来监听摇杆和陀螺仪的输入。其余文件为Unity（Tuanjie）项目文件
