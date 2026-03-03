@@ -3,8 +3,7 @@
 这是一个超酷的 3D PC/VR 游戏项目！玩家通过特制的手套画符释放技能击败怪物，逐渐揭开文明退行的故事。
 
 ## 游戏游玩实录
-![游戏画面](Screenshots/gameplay.png)
-*(注：把上面括号里的 gameplay.png 换成你实际的图片名字，记得加上正确的后缀)*
+https://www.bilibili.com/video/BV14rAozaEhv/?spm_id_from=333.1387.homepage.video_card.click&vd_source=35bbe882eda35f53d5a0594ae8105594
 
 ## ✨ 游戏特色
 * **沉浸式体验**：佩戴手套画符施法，剧情采用环境叙事。
